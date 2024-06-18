@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/textsignout"
+        android:orderInCategory="200"
+        android:title="Sign Out"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/sign_out"
+        android:orderInCategory="200"
+        android:icon="@android:drawable/ic_lock_power_off"
+        app:showAsAction="always" />
+
+
+</menu>
